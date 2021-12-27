@@ -19,7 +19,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-ori
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Cadu-C" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Cadu-pic" height="150" style="border-radius:50px;" src="https://imgur.com/6Ow7PAS">
 </div>
   
   ##
