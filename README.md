@@ -1,4 +1,4 @@
-### Olá!!!! Eu sou Carlos Eduardo Salvador, estudante de Engenharia de Computação 🤖 e desenvolvimento Front End 💻 !
+### Oi, Eu sou Carlos Eduardo Salvador!
 
 <div align="center">
   <a href="https://github.com/cadusalvador">
