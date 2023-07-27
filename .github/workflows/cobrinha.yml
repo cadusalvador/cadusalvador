@@ -1,4 +1,4 @@
-name: Generate Datas
+name: generate-snake-game-from-github-contribution-grid
 
 on:
   schedule: # execute every 12 hours
